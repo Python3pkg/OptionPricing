@@ -2,7 +2,7 @@ import numpy as np
 
 from scipy.stats import norm
 
-from European import European
+from .European import European
 
 
 # Change so don't have to imput volatility sigma
